@@ -1,0 +1,108 @@
+.pic {
+    width: 130px;
+    height: 130px;
+    Border-radius: 7px 7px 7px 7px;
+}
+
+
+
+.prod1 {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+  
+}
+
+.prod2 {
+    position: absolute;
+    left: 500px;
+    top: 10px;
+}
+
+.prod3 {
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
+
+.prod4 {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+
+.prod5 {
+    position: absolute;
+    left: 100px;
+    top: 400px;
+}
+
+.prod6 {
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+
+.prod7 {
+    position: absolute;
+    left: 100px;
+    top: 600px;
+}
+
+.prod8 {
+    position: absolute;
+    left: 500px;
+    top: 600px;
+}
+
+.prod9 {
+    position: absolute;
+    left: 100px;
+    top: 800px;
+}
+
+.prod10 {
+    position: absolute;
+    left: 500px;
+    top: 800px;
+}
+
+.prod11 {
+    position: absolute;
+    left: 100px;
+    top: 1000px;
+}
+
+.prod12 {
+    position: absolute;
+    left: 500px;
+    top: 1000px;
+}
+
+.prod13 {
+    position: absolute;
+    left: 100px;
+    top: 1200px;
+}
+
+.content {
+    text-indent: 1000px;
+    position: absolute;
+    padding-left: 200px;
+    top: 15px;
+    text-align: left;
+    color: black;
+
+   
+}
+
+.price {
+    font-size: 10px;
+    
+}
+
+.city {
+    font-size: 10px;
+    color: red;
+}
+
