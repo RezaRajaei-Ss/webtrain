@@ -1,0 +1,125 @@
+.maintop {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.maincenter{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.mainbtm{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+.leftpos{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
+.centerpos{
+    margin-top: 20px;
+    background-color: red;
+    width: 200px;
+    height: 250px;
+    margin-left: 10px;
+    
+}
+.rightpos{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
+
+.div1 {
+    background-color: blue;
+    width: 200px;
+    height: 70px;
+    margin-left: 10px;
+
+}
+
+.div2 {
+    background-color: brown;
+    width: 200px;
+    height: 70px;
+    margin-left: 10px;
+
+}
+
+.div3 {
+    background-color: orange;
+    width: 200px;
+    height: 70px;
+    margin-left: 10px;
+
+}
+
+.div4 {
+    background-color: yellow;
+    width: 305px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.div5{
+    background-color: purple;
+    width: 305px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.div6{
+    background-color: yellow;
+    width: 150px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.div7{
+    background-color: red;
+    width: 150px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.div8{
+    background-color:grey;
+    width: 150px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.div9{
+    background-color: grey;
+    width: 150px;
+    height: 115px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.div10{
+    background-color: yellow;
+    width: 150px;
+    height: 115px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
